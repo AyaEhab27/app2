@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+numpy
+tensorflow
+opencv-python
+mediapipe
+pydantic
+uuid
+gTTS
+google-cloud-storage
+python-multipart
+firebase-admin
+tenacity
+python-dotenv
+cloudinary
